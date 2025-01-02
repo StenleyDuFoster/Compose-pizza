@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "Compose Pizza"
 include(":app")
- 
+include(":core")
+include(":feature:CP1_custom_slider")
